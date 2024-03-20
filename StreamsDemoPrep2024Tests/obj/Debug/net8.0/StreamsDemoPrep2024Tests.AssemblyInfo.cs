@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("StreamsDemoPrep2024Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+79e0811db2e2e664e86e1222d907a583ab3a311a")]
 [assembly: System.Reflection.AssemblyProductAttribute("StreamsDemoPrep2024Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StreamsDemoPrep2024Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
