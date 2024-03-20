@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.9
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StreamsDemoPrep2024", "StreamsDemoPrep2024\StreamsDemoPrep2024.csproj", "{6C63ABD5-B1C3-41C0-99C6-9250356AC985}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StreamsDemoPrep2024Tests", "StreamsDemoPrep2024Tests\StreamsDemoPrep2024Tests.csproj", "{F76DA95B-571B-483D-B256-8C3B183729F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C63ABD5-B1C3-41C0-99C6-9250356AC985}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C63ABD5-B1C3-41C0-99C6-9250356AC985}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C63ABD5-B1C3-41C0-99C6-9250356AC985}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C63ABD5-B1C3-41C0-99C6-9250356AC985}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F76DA95B-571B-483D-B256-8C3B183729F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F76DA95B-571B-483D-B256-8C3B183729F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F76DA95B-571B-483D-B256-8C3B183729F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F76DA95B-571B-483D-B256-8C3B183729F9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A98E6E4-669D-4144-BEC0-5725C4CC338A}
+	EndGlobalSection
+EndGlobal
